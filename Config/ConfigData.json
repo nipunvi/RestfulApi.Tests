@@ -1,0 +1,13 @@
+{
+  "AppSetting": {
+    "BaseURL": "https://api.restful-api.dev/collections/products/objects"
+  },
+  "PostTestData": {
+    "Name": "Iphone 17 Pro Max",
+    "Price": "1100"
+  },
+  "PutTestData": {
+    "Name": "Iphone 17 Pro",
+    "Price": "1200"
+  }
+}
