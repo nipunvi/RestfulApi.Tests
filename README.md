@@ -24,8 +24,8 @@ RestfullAPI.Test/
 ├── Clients/
 │   └── APIClient.cs          # Reusable logics for HTTP methods
 └── RestAPITests.cs           # Testcases (CRUD scenarios)
-
-RUNNING TESTS
+```
+### RUNNING TESTS
 
 Using Visual Studio:
 1. Open the Test Explorer.
@@ -35,7 +35,7 @@ Using Command Line:
 1. dotnet test
 
 
-TEST SCENARIOS 
+### TEST SCENARIOS 
 
 1. Get All Objects: Validates the API successfully returns a list of objects.
 2. Add Object: Creates a new device and captures the unique ID.
